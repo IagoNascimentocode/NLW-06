@@ -9,7 +9,7 @@
 - Cadastro de TAG
  [x] Não oé permitido cadastrar mais de uma tag com o mesmo nome.
  [x] Não é permitido cadastrar tag sem nome.
- [] Não é permitido o cadastro por usuários que não sejam administradores.
+ [x] Não é permitido o cadastro por usuários que não sejam administradores.
 
 - Cadastro de elogios
  [] Não é permitido um usuário cadastrar um elogio para si.
@@ -19,3 +19,4 @@
 
  #together
  #unidade
+ #embuscadeevolução
